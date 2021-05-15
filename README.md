@@ -15,3 +15,8 @@ Building Project<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;○ Just plug an data cable<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;○ Enable USB debugging in Developer Options in the settings of mobile<br/>
 ● After this click run to install the project in your device<br/>
+
+OBJECTIVE<br/>
+The objective of this project is to simplify the vital and ubiquitous process of conducting and participating in surveys in an organization. Quicksurvey aims to provide an integrated, convenient and reliable platform as a one-stop solution for conducting surveys and the various steps involved in the process. 
+Quicksurvey will help connect people by improving communication and making their voice heard. 
+
